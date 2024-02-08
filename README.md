@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am a [Developer Advocate](https://developers.sap.com/) with the SAP Global Developer & Community Relations team at SAP.  In this role, I focus on developer outreach and technology adoption for both the ABAP development and HANA development topics.  Before joining SAP in 2007, I worked for an SAP customer as an ABAP Developer for 6 years. I co-authored the SAP Press book, Next Generation ABAP Development and have been recongonized as a SAP Mentor Alumni, a HANA Distinguished Engineer(HDE), and a SAP Technology Ambassador.  
 
-Check me out on [Twitter](https://twitter.com/richheilman?lang=en), [LinkedIn](https://www.linkedin.com/in/rich-heilman/), and the [SAP Commmunity](https://people.sap.com/rich.heilman).
+Check me out on [Twitter](https://twitter.com/richheilman?lang=en), [LinkedIn](https://www.linkedin.com/in/rich-heilman/), and the [SAP Commmunity](https://community.sap.com/t5/user/viewprofilepage/user-id/97).
 
 <a href="https://community.sap.com/t5/user/viewprofilepage/user-id/97" target="_blank"><img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadgesGroups/97/1523/109/152/147/1504" /></a>
